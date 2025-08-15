@@ -1,6 +1,6 @@
 {
   "version_name": "1.0.0",
-  "version_code": 2,
-  "release_notes": "a new release is here",
+  "version_code": 3,
+  "release_notes": "fixed bugs",
   "apk_url": "https://github.com/projecteon05/app-update-files/releases/download/v1.0.1-build2/app-release.apk"
 }
