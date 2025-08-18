@@ -1,6 +1,6 @@
 {
   "version_name": "1.0.0",
-  "version_code": 6,
-  "release_notes": "fixed bugs",
+  "version_code": 7,
+  "release_notes": "fixed bugs and the bulk upload for class presidents",
   "apk_url": "https://github.com/projecteon05/app-update-files/releases/download/v1.0.1-build2/app-release.apk"
 }
